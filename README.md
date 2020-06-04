@@ -1,24 +1,18 @@
-# This is a large heading
+# Rohan Kulkarni
+### Geography
+I live in the beautiful city called Pune previously known as Poona, is a metropolis in the Indian State of Maharashtra.
 
-## This is a smaller heading
+### Reading
+Three of my favorite books are: 
+- *The Pragmatic Programmer* by David Thomas and Andrew Hunt 
+- *Pride and Prejudice * by Jane Austen 
+- * The Viking Spirit* by Daniel McCoy
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing, 
-A local *habitation* and a **name**. 
-- This is 
-- an unordered 
-- list 
-1. This is 
-2. an ordered 
-3. list 
-Here is `some code` in the middle of a sentence. 
-``` 
-This is 
-a block 
-of code 
-``` 
-Here is how you make [a link](https://www.wikipedia.org/).
+### Food
+In these last few days all I have dreamt about eating at few of my favorite restaurants in my city: 
+1. The Burger in East St, Camp.
+2. Onesta in  Marigold complex, Kalyani Nagar.
+3. kata kirr in Deccan Gymkhana, Pune
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
+### Contact
+The best way to get in touch with me is [on Linkedin](https://www.linkedin.com/in/rohan-kulkarni-79b84615a/).
