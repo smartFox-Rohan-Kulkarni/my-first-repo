@@ -5,8 +5,8 @@ I live in the beautiful city called Pune previously known as Poona, is a metropo
 ### Reading
 Three of my favorite books are: 
 - *The Pragmatic Programmer* by David Thomas and Andrew Hunt 
-- *Pride and Prejudice * by Jane Austen 
-- * The Viking Spirit* by Daniel McCoy
+- *Pride and Prejudice* by Jane Austen 
+- *The Viking Spirit* by Daniel McCoy
 
 ### Food
 In these last few days all I have dreamt about eating at few of my favorite restaurants in my city: 
