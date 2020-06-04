@@ -1,6 +1,6 @@
 # Rohan Kulkarni
 ### Geography
-I live in the city beautiful of Pune previously known as Poona, is a metropolis in the Indian State of Maharashtra.
+I live in the beautiful city called Pune previously known as Poona, is a metropolis in the Indian State of Maharashtra.
 
 ### Reading
 Three of my favorite books are: 
